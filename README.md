@@ -73,8 +73,7 @@ These certificates represent completed courses in programming foundations, algor
 ---
 
 ## Purpose
-This repository documents my **learning journey with ProgrammingAdvices**.  
-It showcases the certificates I achieved while building strong foundations in programming, problem-solving, OOP, data structures, and database management.  
+This repository documents my **learning journey with ProgrammingAdvices**, showcasing the certificates I earned while mastering programming foundations, algorithms and problem-solving, object-oriented programming, data structures, databases and SQL, C++ and C# development, and the practical application of these skills — including a full real-world project built with the .NET Framework and ADO.NET.
 
 ---
 
